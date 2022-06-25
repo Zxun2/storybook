@@ -288,7 +288,7 @@ textarea {
 .list-heading .icon-sync {
   opacity: 1;
   -webkit-animation: spin 2s infinite linear;
-          animation: spin 2s infinite linear;
+  animation: spin 2s infinite linear;
   display: inline-block;
   margin-right: 4px;
 }
@@ -387,7 +387,7 @@ textarea {
 .loading-item .glow-checkbox,
 .loading-item .glow-text span {
   -webkit-animation: glow 1.5s ease-in-out infinite;
-          animation: glow 1.5s ease-in-out infinite;
+  animation: glow 1.5s ease-in-out infinite;
   background: #eee;
   color: transparent;
   cursor: progress;
